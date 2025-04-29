@@ -4,7 +4,7 @@ import Hero from './Components/Hero'
 import Menu  from './Components/Menu'
 import About from './Components/About'
 import Testimonials from "./Components/Testimonials"
-import Contact from './components/Contact'
+import Contact from './Components/Contact'
 import Footer from './Components/Footer'
 const App = () => {
   return (
