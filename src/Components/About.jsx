@@ -34,20 +34,27 @@ const About = () => {
               initial={{opacity:0,y:100}}
               whileInView={{opacity:1,y:0}}
               transition={{duration:1.5, delay:0.5}}
-            className='text-2xl font-cursive2 text-amber-900'>Passion for Perfect king Raj</motion.h1>
+            className='text-xl font-cursive2 p-2 text-amber-900'>Welcome to **Raj Royal Café**—a sanctuary where flavour meets finesse, and the familiar is reborn with noble flair.
+
+            We are purveyors of indulgence, curators of comfort, and stewards of a culinary reverie that honours both heritage and innovation. From the velvet richness of hand-poured chocolate to the bold elegance of our *Beana Bun*—a whimsical reinvention of the humble akara—we invite you into a world where each bite whispers a story, and every sip carries a crown.
+            
+            Our journey began with a simple longing: to reimagine street-side favourites through a lens of refinement, warmth, and wonder. Born in the heart of our own community, Raj Royal Café was crafted to be both familiar and fascinating—a bridge between memory and modernity.
+            
+            We stand for **authenticity, curiosity, craft, and care**. Every offering is made with purpose. Every detail, intentional. We value culture not as costume, but as a living canvas—one that deserves both honour and evolution.
+            
+            Our mobile cart, though modest in stature, is regal in spirit—a roving emporium of delight designed for those who seek wonder in the everyday. We blend tradition with audacity, grace with grit, and street soul with café couture.
+            
+            At RRC, we do not merely serve refreshments; we compose edible poetry. We do not simply cater to taste—we court it, tease it, elevate it.
+            
+            **So, come—wander into our world. Linger. Savour. Be stirred.**
+            For this is **Raj Royal Café**—*Where Street Meets Majesty*. _with_vibes_</motion.h1>
             <motion.p 
               initial={{opacity:0,y:100}}
               whileInView={{opacity:1,y:0}}
               transition={{duration:1.5, delay:0.6}}
-            className='font-cursive2'>Founded in 2023, King Raj started as a small coffee
-             cart in the heart of the city. Our founder, Raji Awal, had 
-            a vision to bring the finest, ethically sourced coffee and variety of chocolote to
-             our community.
-             What began as a love for the perfect cup of raj has grown into a thriving business,
-              but our core values remain the same. We believe that great coffee is an art form.
-               From carefully selecting the best beans from sustainable farms around the world
-                to meticulously roasting them to perfection, every step in our process is
-                 crafted with love and expertise.</motion.p>
+            className='font-cursive2'>
+              
+            </motion.p>
         </div>
       </div>
     </div>

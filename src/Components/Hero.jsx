@@ -14,7 +14,7 @@ const Hero = () => {
                      initial={{opacity:0,x:-50}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1, delay:0.2}}
- className='text-amber-900 font-semibold font-cursive text-lg'>Welcome to Raj Royal Cafe (RCC)</motion.h3>
+ className='text-amber-1000 font-semibold font-cursive text-lg'>Welcome to Raj Royal Cafe (RRC)</motion.h3>
                 <motion.h1 
                      initial={{opacity:0,x:-60}}
                      whileInView={{opacity:1,x:0}}

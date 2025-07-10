@@ -13,6 +13,7 @@ const bgImage = {
 };
 
 const Contact = () => {
+    
     return (
         <div id='contact' style={bgImage} className='min-h-screen flex 
         items-center justify-center p-6'>
