@@ -43,6 +43,7 @@ const Menu = () => {
         whileInView={{opacity:1, y:0}}
         transition={{duration:1.5, delay:0.5}} className='grid grid-cols-1 sm:grid-cols-2 gap-10 md:grid-cols-3 md:gap-5 place-items-center'>
           {MenuData.map((menu) => (
+          
             <div className='rounded-2xl bg-white hover:bg-amber-900
              transition-all hover:text-white
              relative shadow-xl duration-high group max-w-[300px]'>

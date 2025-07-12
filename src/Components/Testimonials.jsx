@@ -7,25 +7,25 @@ import { motion } from 'framer-motion';
 const TestimonialData = [{
     id: 1,
     name: "Rasheedah",
-    text: "Engineering is intense but Raj Royal Cafe is my break in the day Thier drink? Royal. Thier concept ? Genius. Am a pround fan",
+    text: "Engineering is intense but Raj Royal Cafe is my break in the day Thier drink? Royal. Their concept ? Genius. Am a pround fan",
     img: "https://picsum.photos/101/101",
 },
 {
     id: 2,
     name: "Awwal",
-    text: "Every cup, Every bite-on point. Respect to RCC for the quality",
+    text: "Every cup, Every bite-on point. Respect to RRC for the quality",
     img: "https://picsum.photos/102/102",
 },
 {
     id: 3,
     name: "Sabika",
-    text: "I was curiouse and i was impressed. The Beana bun is a smart, tasty twist on our classic. Raj Royal Cafe get it right",
+    text: "I was curious and i was impressed. The Beana bun is a smart, tasty twist on our classic. Raj Royal Cafe get it right",
     img: "https://picsum.photos/104/104",
 },
 {
     id: 5,
     name: "Bashira",
-    text: "RCC is my comfort after a long day in the lab. The hot chocolate is rich, the vibes are warm and it feel like a little luxury i can afford.",
+    text: "RRC is my comfort after a long day in the lab. The hot chocolate is rich, the vibes are warm and it feel like a little luxury i can afford.",
     img: "https://picsum.photos/103/103",
 },
 ];

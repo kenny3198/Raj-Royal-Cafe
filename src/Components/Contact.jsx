@@ -53,7 +53,7 @@ const Contact = () => {
                 <div className='mt-8 text-center'>
                     <p className='text-gray-600'>Or reach us directly:</p>
                     <p className='font-semibold text-black'>09049792566</p>
-                    <p className='font-semibold text-black'>raJroyalcafe247@gmail.com</p>
+                    <p className='font-semibold text-black'>rajroyalcafe247@gmail.com</p>
                 </div>
             </motion.div>
         </div>

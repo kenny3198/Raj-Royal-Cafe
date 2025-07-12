@@ -14,12 +14,12 @@ const Hero = () => {
                      initial={{opacity:0,x:-50}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1, delay:0.2}}
- className='text-amber-1000 font-semibold font-cursive text-lg'>Welcome to Raj Royal Cafe (RRC)</motion.h3>
+ className='text-amber-1000 font-semibold text-3xl'>Welcome to Raj Royal Cafe</motion.h3>
                 <motion.h1 
                      initial={{opacity:0,x:-60}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1, delay:0.4}} className='text-4xl md:text-6xl font-bold font-cursive2'>Experience Artisanal
-                     <span className='text-amber-900'>Coffee</span> at King Raj</motion.h1>
+                     <span className='text-amber-900'>Coffee</span> at King Raj (RRC)</motion.h1>
                      <motion.p
                      initial={{opacity:0,x:-60}}
                      whileInView={{opacity:1,x:0}}
